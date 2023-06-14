@@ -1,6 +1,4 @@
-# SweeLOL Community Guidelines
-
-Updated: June 21, 2022
+# SweeLOL community guidelines
 
 # 📖 – Community Guidelines
 
@@ -84,7 +82,7 @@ Do not share people’s
 
 ## 🌺 Curb hate
 
-We want SweeLOL to be a welcoming and friendly place for everyone to surf with peace of mind.
+We want Okuna to be a welcoming and friendly place for everyone to surf with peace of mind.
 
 Speech containing demeaning, denigrating, humiliating or brutalising comments whether personal or in general have no place on SweeLOL.
 
@@ -115,22 +113,6 @@ Sharing any of these will lead to the immediate closure of your account and repo
 ## 🚮 Ditch the pornography
 
 Printed, visual or links to material containing the display of sexual organs, activity or nudity[*](about:blank#on-non-sexual-nudity) are not allowed.
-
-## **Illegal Activity**
-
-- Don’t use SweeLOL for any illegal activity — including to promote criminal activity; facilitate or participate in cybercrime; or to buy, sell or facilitate sales of illegal or regulated drugs, contraband, weapons, and counterfeit goods or documents.
-- We prohibit the promotion of regulated goods or industries, including illegal gambling, tobacco products, and alcohol.
-
-## **Threats, Violence & Harm**
-
-- Encouraging violence or dangerous behavior is prohibited — never intimidate or threaten to harm a person, a group of people, or someone’s property.
-- We don’t allow the glorification of self-harm, including the promotion of self-injury, suicide or eating disorders
-
-## **Impersonation, Deceptive Practices & False Information**
-
-- We prohibit pretending to be someone (or something) that you’re not, or attempting to deceive people about who you are. This includes impersonating your friends, celebrities, brands, or other organizations.
-- We prohibit spreading false information that causes harm or is malicious, such as denying the existence of tragic events, unsubstantiated medical claims, undermining the integrity of civic processes, or manipulating content for false or misleading purposes.
-- We disallow spam and deceptive practices.
 
 ## 🏘 Embrace the shared responsibility
 
